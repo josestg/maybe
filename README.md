@@ -1,13 +1,15 @@
 # Maybe - Safe Optional Values for TypeScript
 
-`Maybe` is a utility for handling optional values safely and cleanly in TypeScript. Inspired by Haskell and OCaml, it provides a clear and functional approach to dealing with values that may or may not exist.
+`Maybe` is a utility for handling optional values safely and cleanly in
+TypeScript. Inspired by Haskell and OCaml, it provides a clear and functional
+approach to dealing with values that may or may not exist.
 
 ## Features
 
 - **Explicit Optional Values**: Use `Some` and `None` for clarity.
-- **Functional API**: Transform and handle values with `map`, `flatMap`, and `match`.
+- **Functional API**: Transform and handle values with `map`, `flatMap`, and
+  `match`.
 - **Type-Safe**: Eliminate `null` and `undefined` errors.
-
 
 ## Example
 
